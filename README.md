@@ -4,8 +4,7 @@ Redbook Graphics are operational forecast products transmitted on the NWSTG chan
 
 * [Sample Display of Redbook Products](http://www.unidata.ucar.edu/software/gempak/redbook/gifs.html)
 * [Redbook Graphics Product Description [noaa.gov]](http://fxa.noaa.gov/doc/Redbook-graphics.html)
-
-The script used below to generate the GIF output files can be found at [http://github.com/Unidata/dcredbook-util](http://github.com/Unidata/dcredbook-util). 
+* [C Shell scripts hosted on Github.com](http://github.com/Unidata/dcredbook-util)
 
 In addition to displaying in both gpmap and nmap2, Redbook products can be decoded with the dcredbook program:
 
