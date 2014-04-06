@@ -6,7 +6,7 @@ setenv GIFDIR $OUTDIR/gifs
 if (! -e $GIFDIR) mkdir -p $GIFDIR
 cd $GIFDIR
 
-# run dcrefgood_gif
+# run dcredgook_gif
 cat | dcredbook_gif -v 1 -d $GEMDATA/logs/dcredbook_gif.log  \
 	-s $OUTDIR/%P_${1}_${2}_${3} \
 	'gif|%P~YYYYMMDD_HHNN.'$$'.gif|1280;800'
