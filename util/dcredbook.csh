@@ -1,7 +1,7 @@
 #!/bin/csh -f
 source /home/gempak/Gemenviron
 setenv OUTDIR $GEMDATA/redbook/raw
-setenv GIFDIR $OUTDIR/gifs
+setenv GIFDIR $GEMDATA/redbook/gifs
 
 if (! -e $GIFDIR) mkdir -p $GIFDIR
 cd $GIFDIR
